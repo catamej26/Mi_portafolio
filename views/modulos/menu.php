@@ -44,7 +44,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="/sobre mi.html" class="nav-link">
+            <a href="/sobre mi.php" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                   Sobre Mí
@@ -53,7 +53,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="/estudios.html" class="nav-link">
+            <a href="/estudios.php" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Estudios
@@ -62,7 +62,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="/Portafolio laboral.html" class="nav-link">
+            <a href="/Portafolio laboral.php" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Portafolio Laboral
@@ -72,7 +72,7 @@
           </li>
 
           <li class="nav-item">
-            <a href="/contactame.html" class="nav-link">
+            <a href="/contactame.php" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Contactame
