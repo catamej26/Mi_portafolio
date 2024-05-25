@@ -46,7 +46,7 @@
                
                 <ul class="navbar-nav  mr-5">
                   <li class="nav-item mr-5">
-                    <a class="nav-link" href="index.php">
+                    <a class="nav-link" href="./index.php">
                       <span>Inicio</span>
                     </a>
                   </li>
@@ -62,10 +62,10 @@
               </div>
               <div id="myNav" class="overlay">
                 <div class="overlay-content">
-                  <a href="sobre mi.html">Acerca de Mí</a>
-                  <a href="estudios.html">Estudios</a>
-                  <a href="Portafolio laboral.html">Portafolio laboral</a>
-                  <a href="contactame.html">Contactarme</a>
+                  <a href="./sobre mi.php mi.php">Acerca de Mí</a>
+                  <a href="./estudios.php">Estudios</a>
+                  <a href="./Portafolio laboral.php">Portafolio laboral</a>
+                  <a href="./contactame.php">Contactarme</a>
                 </div>
               </div>
             </div>
