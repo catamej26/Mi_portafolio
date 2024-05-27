@@ -27,25 +27,46 @@
         
           <li class="nav-item">
             <a href="../inicio.php" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+              <i class='bx bx-home'></i>
               <p>
                 Inicio
                 
               </p>
             </a>
           </li>
+
           <li class="nav-item">
-            <a href="/index.php" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+            <a href="inicio.php" class="nav-link">
+              <i class='bx bxs-food-menu'></i>
               <p>
-                Información
+                Menú
+              </p>
+            </a>
+          </li>
+
+          <a href="perfil.php" class="nav-link">
+          <li class="nav-item">
+            
+          <i class='bx bxs-user'></i>
+              <p>
+                Perfil
+                
+              </p>
+            
+          </li>
+          </a>
+          <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class='bx bx-info-square'></i>
+              <p>
+                Información Básica
                 
               </p>
             </a>
           </li>
           <li class="nav-item">
-            <a href="/sobre mi.php" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+            <a href="#" class="nav-link">
+            <i class='bx bxs-id-card'></i>
               <p>
                   Sobre Mí
                 
@@ -53,8 +74,8 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="/estudios.php" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+            <a href="#" class="nav-link">
+            <i class='bx bxs-graduation'></i>
               <p>
                 Estudios
                 
@@ -62,8 +83,8 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="/Portafolio laboral.php" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+            <a href="#" class="nav-link">
+             <i class='bx bxs-briefcase-alt-2'></i>
               <p>
                 Portafolio Laboral
                 
@@ -72,24 +93,23 @@
           </li>
 
           <li class="nav-item">
-            <a href="/contactame.php" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+            <a href="#" class="nav-link">
+              <i class='bx bxs-contact' ></i>
               <p>
                 Contactame
               </p>
             </a>
           </li>
 
-
+          <a href="<?php BASE_URL;?>"/views/logout.php" class="nav-link">
           <li class="nav-item">
-            <a href="<?php BASE_URL;?>"../logout.php" class="nav-link">
-              <i class="nav-icon fas fa-th"></i>
+               <i class='bx bx-log-out'></i>
               <p>
                 Salir
                 
               </p>
-            </a>
           </li>
+          </a>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
