@@ -62,7 +62,7 @@
               </div>
               <div id="myNav" class="overlay">
                 <div class="overlay-content">
-                  <a href="./sobre mi.php mi.php">Acerca de Mí</a>
+                  <a href="./sobre mi.php">Acerca de Mí</a>
                   <a href="./estudios.php">Estudios</a>
                   <a href="./Portafolio laboral.php">Portafolio laboral</a>
                   <a href="./contactame.php">Contactarme</a>

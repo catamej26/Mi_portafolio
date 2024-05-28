@@ -26,7 +26,7 @@
             with font-awesome or any other icon font library -->
         
           <li class="nav-item">
-            <a href="../inicio.php" class="nav-link">
+            <a href="inicio.php" class="nav-link">
               <i class='bx bx-home'></i>
               <p>
                 Inicio
@@ -34,14 +34,15 @@
               </p>
             </a>
           </li>
-
-          <li class="nav-item">
             <a href="inicio.php" class="nav-link">
+          <li class="nav-item">
+            
               <i class='bx bxs-food-menu'></i>
               <p>
                 Menú
               </p>
-            </a>
+              </a>
+         
           </li>
 
           <a href="perfil.php" class="nav-link">
@@ -55,35 +56,26 @@
             
           </li>
           </a>
+          <a href="info_personal.php" class="nav-link">
           <li class="nav-item">
-            <a href="#" class="nav-link">
-              <i class='bx bx-info-square'></i>
+            <i class='bx bxs-id-card'></i>
               <p>
                 Información Básica
                 
               </p>
-            </a>
           </li>
+          </a>
+          <a href="estudios.php" class="nav-link">
           <li class="nav-item">
-            <a href="#" class="nav-link">
-            <i class='bx bxs-id-card'></i>
-              <p>
-                  Sobre Mí
-                
-              </p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="#" class="nav-link">
+          
             <i class='bx bxs-graduation'></i>
               <p>
-                Estudios
-                
+                Estudios 
               </p>
-            </a>
           </li>
+          </a>
           <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="experiencia.php" class="nav-link">
              <i class='bx bxs-briefcase-alt-2'></i>
               <p>
                 Portafolio Laboral

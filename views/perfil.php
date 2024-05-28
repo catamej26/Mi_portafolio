@@ -44,7 +44,7 @@ if(isset($_SESSION["idusuarios"])){
                                 <div class="col-7">
                                     <h2 class="lead"><b>ELIANA CATALINA MEJIA BUELVAS</b></h2>
                                     <h4 class="lead"><b>eliana.mejia-b@uniminuto.edu</b></h4>
-                                    <p class="text-muted text-sm"><b>About: </b> Administradora de Empresas y Estudiante de IV semestre de Ingeniería de Sistemas</p>
+                                    <p class="text-muted text-sm"><b>Sobre Mí: </b> Administradora de Empresas y Estudiante de IV semestre de Ingeniería de Sistemas</p>
                                     <ul class="ml-4 mb-0 fa-ul text-muted">
                                         <li class="small"><span class="fa-li"><i class="fas fa-lg fa-building"></i></span> Dirección:Cra 17 #22-81 Girardot,Cundinamarca</li>
                                         <li class="small"><span class="fa-li"><i class='bx bxs-phone-call'></i></i></span> #Celular: 3014599541</li>
